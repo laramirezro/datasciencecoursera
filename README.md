@@ -1,2 +1,2 @@
 # datasciencecoursera
-repository created in order to fulfil the roject requierements
+repository created in order to fulfil the project requierements
